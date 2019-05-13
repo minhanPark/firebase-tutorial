@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "memoapp-3df8e"
+    "default": "memoapp-3df8e",
+    "staging": "memoapp-3df8e"
   }
 }
